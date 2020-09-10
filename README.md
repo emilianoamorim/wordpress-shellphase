@@ -1,7 +1,7 @@
 # Wordpress Shellphase
 A shell script for diagnosing wordpress applications
 
-Compare the md5sum of your Wordpress files and save it to a Redis database.
+Compare the md5sum of your Wordpress files and save it to a release.
 
 # Why is this useful?
 
